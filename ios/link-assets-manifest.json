@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/anton.ttf",
+      "sha1": "49243712633711db3b673d0b03536e0180cd7ddb"
+    },
+    {
+      "path": "assets/fonts/montez.ttf",
+      "sha1": "3338dbef80578efec573e5d0026ba6e289545141"
+    },
+    {
+      "path": "assets/fonts/montserrat.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/fonts/sono.ttf",
+      "sha1": "a1a306f035f79a002b7d0530de6234a38ab52e75"
+    }
+  ]
+}
